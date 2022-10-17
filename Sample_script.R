@@ -1,1 +1,2 @@
-sampletest
+sampletest <- "Hello"
+print(sampletest)
